@@ -1,2 +1,4 @@
-export { HelloWorld }
-    from './hello-world/hello-world';
+export { IDocFusionOptions }
+    from './doc-fusion/fusion-options';
+export { DocFusion }
+    from './doc-fusion/doc-fusion';

@@ -27,9 +27,13 @@
     ]
   },
   "dependencies": {
+    "docxtemplater": "^3.6.1",
+    "jszip": "2",
+    "lodash": "^4.17.5"
   },
   "devDependencies": {
     "@types/chai": "3.4.30",
+    "@types/lodash": "^4.14.107",
     "@types/mocha": "^2.2.44",
     "@types/node": "^8.0.53",
     "chai": "3.5.0",
